@@ -1,0 +1,21 @@
+{
+  "name": "djaynii-dark",
+  "displayName": "DjayNii Dark",
+  "description": "DjayNii's Dark Theme !",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DjayNii Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DjayNii Dark-color-theme.json"
+      }
+    ]
+  }
+}
