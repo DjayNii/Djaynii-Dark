@@ -3,6 +3,18 @@
   "displayName": "DjayNii Dark",
   "description": "DjayNii's Dark Theme !",
   "version": "0.0.1",
+  "publisher": "NithinReddy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DjayNii/Djaynii-Dark"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "djni",
+    "djay",
+    "nii"
+  ],
   "engines": {
     "vscode": "^1.97.0"
   },
