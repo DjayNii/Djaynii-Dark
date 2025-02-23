@@ -15,7 +15,7 @@
     "djay",
     "nii"
   ],
-  "icon": "https://avatars.githubusercontent.com/u/130832980?s=400&u=20720686294fe72e7fb13918abe8207740ed4893&v=4",
+  "icon": "./images/DjayNii.png",
   "engines": {
     "vscode": "^1.97.0"
   },
