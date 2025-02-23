@@ -15,7 +15,7 @@
     "djay",
     "nii"
   ],
-  "icon": "./images/DjayNii.png",
+  "icon": "images/DjayNii.png",
   "engines": {
     "vscode": "^1.97.0"
   },
